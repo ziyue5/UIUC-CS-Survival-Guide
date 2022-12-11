@@ -37,8 +37,8 @@ TA:
 |--|--|
 | CS 410 | Basic Python & Basic Statistics |
 | CS 415 | Programming Intro level Class & No C++ knowledge needed & No fast computer needed (There are lab computers with super expensive hardwares)
-| CS 466 | Basic Python & No biology knowledge needed
 | CS 433 | Basic understanding of CS 233 Topics: Instruction Sets, Computer Arithmetic, Performance Assessment, Pipeline, Memory Hierarchies, I/O, Multiprocessor Architectures
+| CS 466 | Basic Python & No biology knowledge needed
 
 
 ## What UIUC CS doesn't do good
