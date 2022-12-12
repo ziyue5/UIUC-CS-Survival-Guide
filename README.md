@@ -2,10 +2,10 @@
 
 This guide is intended for mates who struggles in CS@UIUC ~~or who wants to coast and get your CS degree~~ Welcome for any contributions and new session ideas!
 
-
 ## Category
 
 - [Resources](#resources)
+
 - [RA or TA Assistantship](#ra-or-ta-assistantship)
 - [What you really needs to understand what Professor is talking in each class](#true-course-prerequisites)
 - [What UIUC CS doesn't do good](#what-uiuc-cs-doesnt-do-good)
@@ -38,6 +38,7 @@ TA:
 | CS 410 | Basic Python & Basic Statistics |
 | CS 415 | Programming Intro level Class & No C++ knowledge needed & No fast computer needed (There are lab computers with super expensive hardwares)
 | CS 433 | Basic understanding of CS 233 Topics: Instruction Sets, Computer Arithmetic, Performance Assessment, Pipeline, Memory Hierarchies, I/O, Multiprocessor Architectures
+| CS 438 | Basic understanding of signals, power of signals, shannon's equation. (Very important for Romit's section! Literally 20 points about signal on the midterm at Fall 2022 and barely covered in lectures) Mastery of probabilities (poisson distribution, calculation of expectation, etc.) 
 | CS 466 | Basic Python & No biology knowledge needed
 | CS 468 | No programming knowledge needed & No advertising knowledge needed
 
