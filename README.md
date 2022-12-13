@@ -1,4 +1,4 @@
-# UIUC CS Survival Guide
+# UIUC CS Survival Guide 🎮 🤩
 
 ***Please check [our website](https://uiuccssurvival.wiki/) for advice about how to survive at CS@UIUC***
 
@@ -8,7 +8,7 @@ This repo is intended for students at CS@UIUC trying to help their university li
 
 Please help this repo by opening a Pull Request or submit an issue to share your thoughts, experiences, and suggestions with current UIUC CS students no matter if you are alumni or current CS students at UIUC. We are Illini and making CS@UIUC better!
 
-## Thanks for every Illini contributor
+## Thanks for every Illini contributor ☕️ 💻
 <a href="https://github.com/ziyue5/UIUC-CS-Survival-Guide/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ziyue5/UIUC-CS-Survival-Guide" />
 </a>
