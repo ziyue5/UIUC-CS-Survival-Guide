@@ -5,7 +5,6 @@ This guide is intended for mates who struggles in CS@UIUC ~~or who wants to coas
 ## Category
 
 - [Resources](#resources)
-
 - [RA or TA Assistantship](#ra-or-ta-assistantship)
 - [What you really needs to understand what Professor is talking in each class](#true-course-prerequisites)
 - [What UIUC CS doesn't do good](#what-uiuc-cs-doesnt-do-good)
