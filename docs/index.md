@@ -42,6 +42,7 @@ TA:
 | CS 466        | Basic Python & No biology knowledge needed                                                                                                                                                                                                                                                |
 | CS 468        | No programming knowledge needed & No advertising knowledge needed                                                                                                                                                                                                                         |
 | CS 511        | Know Rust and Jupyter Notebook well                                                                                                                                                                                                                                                       |
+| CS 527        | Know ssh, git, and basic Maven, and a good luck is helpful                                                                                                                                                                                                                                                   |
 
 ## What UIUC CS doesn't do good
 
