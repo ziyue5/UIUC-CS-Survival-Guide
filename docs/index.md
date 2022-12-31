@@ -43,7 +43,7 @@ TA:
 | CS 468        | No programming knowledge needed & No advertising knowledge needed                                                                                                                                                                                                                         |
 | CS 511        | Know Rust and Jupyter Notebook well                                                                                                                                                                                                                                                       |
 | CS 527        | Know ssh, git, and basic Maven, and a good luck is helpful                                                                                                                                                                                                                                                   |
-
+| CS 542 | Linear algebra, Probability and Statistics (Especially on Expectation). You can consider this course as a math course with research project though. This course does not have any programming task.|
 ## What UIUC CS doesn't do good
 
 - Rare heavy industry-based courses
